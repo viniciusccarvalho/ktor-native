@@ -1,0 +1,38 @@
+[
+   {
+    "name" : "io.igx.kotlin.model.Driver",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+     "fields" : [
+       { "name" : "id" },
+       { "name" : "firstName" },
+       { "name" : "lastName" },
+       { "name" : "nationality" }
+     ]
+   },
+
+  {
+  "name" : "java.lang.Integer",
+  "methods" : [{ "name" : "parseInt", "parameterTypes" : ["java.lang.String"]}]
+}, {
+  "name" : "java.lang.Long",
+  "methods" : [{ "name" : "parseLong", "parameterTypes" : ["java.lang.String"]}]
+}, {
+  "name" : "java.lang.Boolean",
+  "methods" : [{ "name" : "parseBoolean", "parameterTypes" : ["java.lang.String"]}]
+}, {
+  "name" : "java.lang.Byte",
+  "methods" : [{ "name" : "parseByte", "parameterTypes" : ["java.lang.String"]}]
+}, {
+  "name" : "java.lang.Short",
+  "methods" : [{ "name" : "parseShort", "parameterTypes" : ["java.lang.String"]}]
+}, {
+  "name" : "java.lang.Float",
+  "methods" : [{ "name" : "parseFloat", "parameterTypes" : ["java.lang.String"]}]
+}, {
+  "name" : "java.lang.Double",
+  "methods" : [{ "name" : "parseDouble", "parameterTypes" : ["java.lang.String"]}]
+}
+]
